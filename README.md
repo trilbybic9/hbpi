@@ -1,3 +1,3 @@
 # hbpi
-easy installer for handbreak on arm processors
+easy installer for handbrake on arm processors
 
