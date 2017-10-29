@@ -1,2 +1,3 @@
 # hbpi
-Handbreak easy install script for the raspberry pi
+easy installer for handbreak on arm processors
+
